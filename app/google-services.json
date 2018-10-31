@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139758924200",
+    "firebase_url": "https://mahmoud-cc800.firebaseio.com",
+    "project_id": "mahmoud-cc800",
+    "storage_bucket": "mahmoud-cc800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139758924200:android:85e34d12ce5815de",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.mahmoud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139758924200-34qbtscgq2n4821fbotsgqu1v3d1r3ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0mRcWkm2B05X8yWk6axCQftmr4cAz_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
